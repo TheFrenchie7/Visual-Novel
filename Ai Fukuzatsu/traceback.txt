@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 323, in script
+    jump accepte
+ScriptError: could not find label 'accepte'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 323, in script
+    jump accepte
+  File "C:\Users\hugof\Desktop\renpy-7.3.5-sdk\renpy\ast.py", line 1697, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\hugof\Desktop\renpy-7.3.5-sdk\renpy\script.py", line 898, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'accepte'.
+
+Windows-8-6.2.9200
+Ren'Py 7.3.5.606
+Ai Fukuzatsu 1.0
+Wed Feb 26 14:31:19 2020

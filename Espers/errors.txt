@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 150: end of line expected.
+    "Délinquant 1" "Réponds-moi *paf*" / tremblement 
+                                       ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Wed Oct 21 14:44:04 2020

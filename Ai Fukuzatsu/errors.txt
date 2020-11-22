@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1054: expected statement.
+    continue railnight
+                      ^
+
+File "game/script.rpy", line 1069: expected statement.
+    continue railnight
+                      ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Apr 07 10:06:56 2020
